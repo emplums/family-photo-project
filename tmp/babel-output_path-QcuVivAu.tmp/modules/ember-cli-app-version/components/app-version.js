@@ -1,0 +1,1 @@
+/Users/emilyplummer/family-photo-project/tmp/babel-cache_path-JCCEyhar.tmp/modules/ember-cli-app-version/components/app-version.js

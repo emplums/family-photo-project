@@ -1,0 +1,1 @@
+/Users/emilyplummer/family-photo-project/tmp/jshinter-cache_path-LHeQmwWA.tmp/helpers/start-app.jshint.js

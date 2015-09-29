@@ -1,0 +1,1 @@
+/Users/emilyplummer/family-photo-project/tmp/babel-cache_path-7WMRt7sX.tmp/family-photo/tests/unit/routes/albums-test.js

@@ -1,0 +1,1 @@
+/Users/emilyplummer/family-photo-project/tmp/broccoli_merge_trees-input_base_path-VkOnAPlv.tmp/2/family-photo/templates/index.js
